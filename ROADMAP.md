@@ -27,11 +27,11 @@ Everything lives on your **personal** GitHub account (`Alicjajulia99`).
 
 ## Phase 0 — Setup (Git, GitHub, first app)
 
-- [ ] Create the project with Vite (`npm create vite@latest`) and run it locally
-- [ ] Understand the folder structure: `index.html`, `src/main.tsx`, `src/App.tsx`, `package.json`
-- [ ] `git init`, make a `.gitignore`, first commit
-- [ ] Create a repo on GitHub and push to it
-- [ ] Learn the daily loop: `git status` → `git add` → `git commit` → `git push`
+- [x] Create the project with Vite (`npm create vite@latest`) and run it locally
+- [x] Understand the folder structure: `index.html`, `src/main.tsx`, `src/App.tsx`, `package.json`
+- [x] `git init`, make a `.gitignore`, first commit
+- [x] Create a repo on GitHub and push to it
+- [x] Learn the daily loop: `git status` → `git add` → `git commit` → `git push`
 
 **Concepts:** what npm is, what a dev server does, what Git tracks vs. what GitHub hosts.
 
